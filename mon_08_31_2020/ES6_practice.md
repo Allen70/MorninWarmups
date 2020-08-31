@@ -104,17 +104,17 @@ const doubledArray = array.map(double)
 It might look weird to see double written inside of map with no arguments. What it is doing is passing in each element to that function for every element. Its going to look and feel weird until you do it a few times. 
 
 here is an array
-```
+``` 
 array = [1,2,3,4,5,6,7,8,9,10]
 ```
 
 All of the problems we are about to do will use this array
 
-problem 5) double each element of the array, and inside of your applicative use ES6 syntax ( () => {} )
-problem 6) double each element of the array, and inside of your applicative use a callback to an external function
-problem 7) filter out any element of the array that is not even using ES6 syntax, with an implicit return on your applicative
-problem 8) filter out any element of the array that is odd using ES6 syntax with an explicit return on  your applicative
-problem 9) Go through each element of the array, and for any term that is a multiple of three, change it to the string " I am a multiple of 3", use any syntax that you would like for this
+- problem 5) double each element of the array, and inside of your applicative use ES6 syntax ( () => {} )
+- problem 6) double each element of the array, and inside of your applicative use a callback to an external function
+- problem 7) filter out any element of the array that is not even using ES6 syntax, with an implicit return on your applicative
+- problem 8) filter out any element of the array that is odd using ES6 syntax with an explicit return on  your applicative
+- problem 9) Go through each element of the array, and for any term that is a multiple of three, change it to the string " I am a multiple of 3", use any syntax that you would like for this
 
 
 
