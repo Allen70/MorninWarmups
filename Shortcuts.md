@@ -3,6 +3,7 @@ SHORTCUT LIST
 note: 
   My keyboard says alt, but for alot of people the alt key will be the option key, specifically if you have a mac laptop. 
 
+
 Deleting Shortcuts (Mac):
 - 'alt + backspace' to delete a word at a time
 - 'cmd + bckspc' to delete a whole line
@@ -23,3 +24,8 @@ Move Lines up and down
 Open Terminal
 - 'cntrl + ` '
 notice what happens to your active cursor when you do this, hint hint it s
+
+Spectacle Shortcuts
+  Spectacle is an app you gotta download
+  'cmd + alt + arrowkey' to move shit around
+  'cmd + alt + cntrl + arrowKey' to move from one monitor to another monitor
