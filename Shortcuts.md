@@ -11,6 +11,24 @@ Deleting Shortcuts (Mac):
 - 'fn + backspace + alt' to delete word forwards
 - 'fn + backspace + cmd' to delete line forwards
 
+MultiCursor
+- Cmd + D
+  
+Highlight All
+- 'cmd + all'
+
+Comment Out Code
+- 'cmd + /'
+  
+Copy and Pase
+- 'cmd + c' copy
+- 'cmd + v' paste
+- 'cmd + x' cut
+  note: if you don't highlight text on a line, it will copy or cut the whole line, otherwise it will copy or cut the highlighted text
+  
+Undo, redo
+  'cmd + z' is redo
+  'cmd + shift + z' is Redo
 Move the cursor around Shortcuts:
 - 'alt + ->' move right a whole word
 - 'cmd + ->' move to end of line
@@ -29,3 +47,18 @@ Spectacle Shortcuts
   Spectacle is an app you gotta download
   'cmd + alt + arrowkey' to move shit around
   'cmd + alt + cntrl + arrowKey' to move from one monitor to another monitor
+
+Mac Window Management
+  'cntrl + cmmnd + f' full screen
+  'cntrl + (left or right)arrow' - Switch beetween full screens
+  ^^^^ same thing as three finger swife left or right
+  'Three finger swipe up' -allows you to view all open windows - called mission control
+  you can also set a keyboard shortcut to it in our settings
+
+
+App Navigation
+  'cmd + space' - Spotlight search - allows you to quickly type in an app name and open it
+  'cmd + tab' - move through open applications
+
+
+REMINDER: Download Indent Rainbow
